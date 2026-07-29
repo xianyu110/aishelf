@@ -70,6 +70,8 @@ A beautifully designed, blazing-fast directory of 60+ AI tools — built with An
 
 `Writing` · `Image` · `Video` · `Coding` · `Productivity` · `Audio` · `SEO` · `Design` · `Agents`
 
+Related image/design tool reference: [GPT Image 2](https://gptimage2.asia/) for AI image generation, image editing, marketing visuals, and brand assets.
+
 ---
 
 ## 🛠️ Tech Stack
